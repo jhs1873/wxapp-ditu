@@ -1,0 +1,5 @@
+<!-- index.wxml -->
+<view bindtap="openMap">
+  上班地址：
+<text>{{address}}</text>
+</view>

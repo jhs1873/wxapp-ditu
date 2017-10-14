@@ -1,0 +1,9 @@
+/**app.wxss**/
+view {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+}
